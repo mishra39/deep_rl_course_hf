@@ -4,4 +4,3 @@ huggingface_hub
 numpy<2.0
 imageio-ffmpeg
 pyyaml
-gym==0.26.2
