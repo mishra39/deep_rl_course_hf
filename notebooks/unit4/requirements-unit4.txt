@@ -1,5 +1,7 @@
 git+https://github.com/ntasfi/PyGame-Learning-Environment.git
 git+https://github.com/simoninithomas/gym-games
 huggingface_hub
+numpy<2.0
 imageio-ffmpeg
 pyyaml
+gym==0.26.2
